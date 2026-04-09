@@ -1,7 +1,9 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Sravanthi Guda**, a passionate Computer Science student interested in **Machine Learning, Web Development, and Java Development**.  
-I love building **intelligent, real-world applications** that solve problems in finance, data analysis, and smart systems.
+🎓 **Published Researcher | 💻 Developer | 🤖 ML Enthusiast**
+
+Hi there! I'm **Sravanthi Guda**, a Computer Science Engineering student passionate about building real-world solutions using **Machine Learning, Web Development, and Java**.  
+I enjoy working on impactful systems in **data analytics, healthcare, and smart technologies**.
 
 ---
 
@@ -24,7 +26,7 @@ I love building **intelligent, real-world applications** that solve problems in 
 
 ---
 
-## 🧠 Machine Learning
+## 🧠 Machine Learning & Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
@@ -33,97 +35,104 @@ I love building **intelligent, real-world applications** that solve problems in 
 
 ## 🗄 Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-### ⚖️ LegalEase – Smart Case & Law Management System
-- Java-based application for managing legal cases  
-- Case tracking, scheduling, evidence handling  
-- Strong OOP concepts (Inheritance, Interfaces, Exceptions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 # 🚀 Featured Projects
 
 ### 📊 CodeAlpha Data Analytics
-Data analysis project using Jupyter Notebook.  
 - Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
 - Insight generation using real-world datasets  
-- Exploratory Data Analysis (EDA) techniques  
-
-🔗 [View Repository](https://github.com/sravsguda123/CodeAlpha_DataAnalytics)
+🔗 https://github.com/sravsguda123/CodeAlpha_DataAnalytics  
 
 ---
 
 ### 🚨 Fraud Detection
-Machine Learning project to detect fraudulent transactions.  
-- Built using Python  
-- Data preprocessing and feature selection  
-- Model training and evaluation  
-
-🔗 [View Repository](https://github.com/sravsguda123/FraudDetection)
+- Machine Learning project using Python  
+- Feature engineering and model evaluation  
+- Fraud detection system design  
+🔗 https://github.com/sravsguda123/FraudDetection  
 
 ---
 
 ### 🏠 Smart Home Controller
-A smart system for home automation.  
-- Designed for controlling devices efficiently  
-- Based on real-world IoT concepts  
-- Focus on automation logic  
-
-🔗 [View Repository](https://github.com/sravsguda123/Smart-Home-Controller)
+- IoT-based home automation system  
+- Focus on device control and automation logic  
+🔗 https://github.com/sravsguda123/Smart-Home-Controller  
 
 ---
 
 ### 🎓 Virtual Classroom System
-A web-based virtual classroom platform. *(Software Engineering Project)*  
+- Web-based learning platform  
 - Built using JavaScript  
-- Supports online learning interactions  
-- Collaborative system design  
-
-🔗 [View Repository](https://github.com/sravsguda123/Virtual-classroom---A1)
+- Supports interactive learning  
+🔗 https://github.com/sravsguda123/Virtual-classroom---A1  
 
 ---
 
 ### 🛒 E-Commerce Platform using TCP Connections
-Network-based project analyzing e-commerce performance.  
-- Client-server architecture implementation  
-- Evaluated bandwidth, delay, and packet loss  
-- Focus on networking and system performance  
-
-🔗 [View Repository](https://github.com/sravsguda123/E-Commerce-Platform-using-TCP-Connections)
+- Client-server architecture  
+- Network performance evaluation  
+- Concepts: bandwidth, delay, packet loss  
+🔗 https://github.com/sravsguda123/E-Commerce-Platform-using-TCP-Connections  
 
 ---
 
 ### 📉 Theft Report Analysis
-Data analysis project on yearly theft records.  
-- Data visualization and insights  
-- Trend analysis over time  
-- Built using HTML-based reporting  
+- Database-driven project for theft analysis  
+- Trend analysis and reporting  
+- SQL-based insights  
+🔗 https://github.com/sravsguda123/Theft_report  
 
-🔗 [View Repository](https://github.com/sravsguda123/Theft_report)
+---
+
+# 📄 Publications & Research
+
+### 🧪 Sanitation and Environmental Challenges in a Marginalized Community  
+**A Field-Based Case Study on Rural Health and Sanitation in Tamil Nadu**
+
+
+📚 SSRN eLibrary  
+📅 International Conference on Sustainable & Resilient Futures (ICSRF 2025)  
+🆔 SSRN Paper No. 5739362  
+📆 November 12, 2025  
+
+🔗 https://ssrn.com/abstract=5739362  
+
+---
+
+### 🔬 Ongoing Research
+**AI-Based Surgical Instrument Detection**
+- Machine Learning for medical image analysis  
+- Improving surgical precision and automation  
+
+---
 
 # 🏆 Achievements
-- Built multiple real-world projects  
-- Strong in Data Structures & Algorithms  
-- Continuously improving problem-solving skills  
+- 📄 Published research paper in SSRN  
+- 💡 Worked on real-world ML and data projects  
+- 📊 Strong foundation in Data Structures & Problem Solving  
 
 ---
 
 # 🎓 Education
 **B.Tech in Computer Science Engineering**  
-(Expected Graduation: 2026)
+Amrita Vishwa Vidyapeetham  
+CGPA: 8.61  
 
 ---
 
 # 📜 Certifications
-- Machine Learning  
-- Data Analytics
+- Data Analytics – Cisco  
+- Machine Learning – NPTEL  
+- Artificial Intelligence – Springboard  
+- Deep Learning – Springboard  
+- NLP – Springboard  
+
 ---
 
 # 📫 Let's Connect
@@ -131,5 +140,7 @@ Data analysis project on yearly theft records.
 
 ---
 
-# ✨ Fun Fact
-💡 I love turning ideas into real-world applications!
+# ✨ About Me
+- 🚀 Passionate about building real-world applications  
+- 🤖 Interested in AI, ML, and system design  
+- 🎯 Goal: Become a skilled Software Engineer  
