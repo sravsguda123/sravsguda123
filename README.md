@@ -48,24 +48,65 @@ I love building **intelligent, real-world applications** that solve problems in 
 
 ---
 
-### 💰 FinSafe Transaction Validator
-- Secure transaction system using Java  
-- Custom exceptions for validation  
-- Transaction history using collections  
+# 🚀 Featured Projects
+
+### 📊 CodeAlpha Data Analytics
+Data analysis project using Jupyter Notebook.  
+- Data cleaning and preprocessing  
+- Insight generation using real-world datasets  
+- Exploratory Data Analysis (EDA) techniques  
+
+🔗 [View Repository](https://github.com/sravsguda123/CodeAlpha_DataAnalytics)
 
 ---
 
-### 🌐 Property Guardian
-- Web application using HTML, CSS, JS, Bootstrap, PHP  
-- Property monitoring and management system  
+### 🚨 Fraud Detection
+Machine Learning project to detect fraudulent transactions.  
+- Built using Python  
+- Data preprocessing and feature selection  
+- Model training and evaluation  
+
+🔗 [View Repository](https://github.com/sravsguda123/FraudDetection)
 
 ---
 
-### 📊 Online Payment Fraud Detection
-- Machine Learning model for fraud detection  
-- Data preprocessing, visualization, and evaluation  
+### 🏠 Smart Home Controller
+A smart system for home automation.  
+- Designed for controlling devices efficiently  
+- Based on real-world IoT concepts  
+- Focus on automation logic  
+
+🔗 [View Repository](https://github.com/sravsguda123/Smart-Home-Controller)
 
 ---
+
+### 🎓 Virtual Classroom System
+A web-based virtual classroom platform. *(Software Engineering Project)*  
+- Built using JavaScript  
+- Supports online learning interactions  
+- Collaborative system design  
+
+🔗 [View Repository](https://github.com/sravsguda123/Virtual-classroom---A1)
+
+---
+
+### 🛒 E-Commerce Platform using TCP Connections
+Network-based project analyzing e-commerce performance.  
+- Client-server architecture implementation  
+- Evaluated bandwidth, delay, and packet loss  
+- Focus on networking and system performance  
+
+🔗 [View Repository](https://github.com/sravsguda123/E-Commerce-Platform-using-TCP-Connections)
+
+---
+
+### 📉 Theft Report Analysis
+Data analysis project on yearly theft records.  
+- Data visualization and insights  
+- Trend analysis over time  
+- Built using HTML-based reporting  
+
+🔗 [View Repository](https://github.com/sravsguda123/Theft_report)
 
 # 🏆 Achievements
 - Built multiple real-world projects  
