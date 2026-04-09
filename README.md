@@ -123,10 +123,7 @@ Data analysis project on yearly theft records.
 
 # 📜 Certifications
 - Machine Learning  
-- Data Structures  
-- Java Programming  
-- Web Development  
-
+- Data Analytics
 ---
 
 # 📫 Let's Connect
