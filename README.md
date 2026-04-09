@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-💻 Developer | 🤖 ML Enthusiast** | 🎓 **Published Researcher
+💻 Developer | 🤖 ML Enthusiast | 🎓 Published Researcher
 
 Hi there! I'm **Sravanthi Guda**, a Computer Science Engineering student passionate about building real-world solutions using **Machine Learning, Web Development, and Java**.  
 I enjoy working on impactful systems in **data analytics, healthcare, and smart technologies**.
