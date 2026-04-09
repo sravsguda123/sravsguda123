@@ -9,19 +9,6 @@ I enjoy working on impactful systems in **data analytics, healthcare, and smart 
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sravsguda123&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravsguda123&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravsguda123&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 # 🛠 Tech Stack
 
 ## 👩‍💻 Programming Languages
