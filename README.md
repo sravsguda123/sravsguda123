@@ -134,13 +134,12 @@ CGPA: 8.61
 - NLP – Springboard  
 
 ---
-
 # 📫 Let's Connect
-🔗 GitHub: https://github.com/sravsguda123  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sravsguda123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sravanthireddyguda2004@gmail.com)
 
 ---
 
-# ✨ About Me
-- 🚀 Passionate about building real-world applications  
-- 🤖 Interested in AI, ML, and system design  
-- 🎯 Goal: Become a skilled Software Engineer  
+✨ Thanks for visiting! Feel free to explore my repositories and connect for collaborations 🤝
