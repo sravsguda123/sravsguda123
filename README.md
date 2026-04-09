@@ -7,7 +7,6 @@ I enjoy working on impactful systems in **data analytics, healthcare, and smart 
 
 ---
 
----
 
 # 🛠 Tech Stack
 
